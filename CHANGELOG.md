@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/agrc/pipeline-test/compare/v1.1.2...v1.1.3) (2022-10-04)
+
+
+### 🐛 Bug Fixes
+
+* update versions for correct workflow ([db0289d](https://github.com/agrc/pipeline-test/commit/db0289d82a093ab46a1be8e89915a7656a2f4af1))
+
 ## [1.1.2](https://github.com/agrc/pipeline-test/compare/v1.1.1...v1.1.2) (2022-10-04)
 
 
