@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/agrc/pipeline-test/compare/v1.1.9...v2.0.0) (2022-10-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a sumary
+
+### 🚀 Features
+
+* breaking change ([bf10b6d](https://github.com/agrc/pipeline-test/commit/bf10b6d2983da01d84ff54d5233d8f298515b1d1)), closes [#1](https://github.com/agrc/pipeline-test/issues/1)
+
 ## [1.1.9](https://github.com/agrc/pipeline-test/compare/v1.1.8...v1.1.9) (2022-10-04)
 
 
