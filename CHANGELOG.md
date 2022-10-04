@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.8](https://github.com/agrc/pipeline-test/compare/v1.1.7...v1.1.8) (2022-10-04)
+
+
+### 🐛 Bug Fixes
+
+* these are mutually exclusive ([718f6f8](https://github.com/agrc/pipeline-test/commit/718f6f8ba92b5d4a60cb58911be8aa3a41c9edfa))
+
 ## [1.1.7](https://github.com/agrc/pipeline-test/compare/v1.1.6...v1.1.7) (2022-10-04)
 
 
