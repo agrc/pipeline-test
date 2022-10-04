@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.9](https://github.com/agrc/pipeline-test/compare/v1.1.8...v1.1.9) (2022-10-04)
+
+
+### 🐛 Bug Fixes
+
+* add branch protections ([e137a41](https://github.com/agrc/pipeline-test/commit/e137a41ea3a1975a10d6495215421cccc7ede70d))
+
 ## [1.1.8](https://github.com/agrc/pipeline-test/compare/v1.1.7...v1.1.8) (2022-10-04)
 
 
