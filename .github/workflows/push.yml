@@ -28,8 +28,7 @@ jobs:
         id: get-next-version
         uses: agrc/get-next-version-action@main
         with:
-          prerelease: ${{ inputs.prerelease }}
-          repo-token: ${{ inputs.repo-token }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Print Next Version
         run: echo ${{ steps.get-next-version.outputs.version }}
