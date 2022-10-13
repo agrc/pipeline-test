@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.2.0](https://github.com/agrc/pipeline-test/compare/v2.1.0...v1.2.0) (2022-10-13)
+
+
+### 🚀 Features
+
+* add get next version for testing ([454feaf](https://github.com/agrc/pipeline-test/commit/454feafb70119dbd33a6645e9ba36ef285680959))
+
+
+### 🐛 Bug Fixes
+
+* checkout code ([c817ece](https://github.com/agrc/pipeline-test/commit/c817ece30a5027bcc1ca7ff2736b595affe83c84))
+* fix inputs ([8a909c3](https://github.com/agrc/pipeline-test/commit/8a909c3ac844d69046d01411ac4e124126249dd1))
+* fix release branch name ([1eb20eb](https://github.com/agrc/pipeline-test/commit/1eb20eb3f2b323b34bed2d11fb20eed235f7303e))
+* switch to dev to test deploy action ([c0e9af2](https://github.com/agrc/pipeline-test/commit/c0e9af233fcb3d15055dbaa5818826133f072354))
+
 ## [2.1.0](https://github.com/agrc/pipeline-test/compare/v2.0.0...v2.1.0) (2022-10-04)
 
 
