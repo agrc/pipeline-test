@@ -24,6 +24,9 @@ jobs:
       release_created: ${{ steps.release-please.outputs.release_created }}
 
     steps:
+      - name: ⬇️ Set up code
+        uses: actions/checkout@v3
+
       - name: ⏩ Get Next version (for testing only)
         id: get-next-version
         uses: agrc/get-next-version-action@main
