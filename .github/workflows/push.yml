@@ -24,6 +24,16 @@ jobs:
       release_created: ${{ steps.release-please.outputs.release_created }}
 
     steps:
+      - name: ⏩ Get Next version (for testing only)
+        id: get-next-version
+        uses: agrc/get-next-version-action@main
+        with:
+          prerelease: ${{ inputs.prerelease }}
+          repo-token: ${{ inputs.repo-token }}
+      
+      - name: Print Next Version
+        run: echo ${{ steps.get-next-version.outputs.version }}
+        
       - name: 🚀 Create Release
         id: release-please
         uses: agrc/release-composite-action@branch-sync
