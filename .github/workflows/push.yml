@@ -36,7 +36,7 @@ jobs:
         
       - name: 🚀 Create Release
         id: release-please
-        uses: agrc/release-composite-action@branch-sync
+        uses: agrc/release-composite-action@main
         with:
           prerelease: ${{ github.ref_name == 'dev' }}
           repo-token: ${{ secrets.GITHUB_TOKEN }}
